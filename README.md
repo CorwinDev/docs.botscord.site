@@ -1,4 +1,4 @@
-<a href="bot.html">Bot On Site</a>
+<a href="bot.md">Bot On Site</a>
 
 # On this site you find info about our [site](https://botscord.site)!
 
