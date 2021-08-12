@@ -37,17 +37,15 @@ let hasVote = await DSL.hasVoted("Your-bot-id");
   })
 ```
 
-# Soon More!!
 
 
 
 
 
 
+# Add bot tutorial
 
-## Add bot tutorial
-
-# Get bot/client ID:
+## Get bot/client ID:
 
 Go to [DiscordDevsPortal](https://discord.com/developers/applications)
 
