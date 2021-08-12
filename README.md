@@ -1,8 +1,8 @@
 # docs.botscord.site
-## On this site you find info about our [site](https://botscord.site)!
+# On this site you find info about our [site](https://botscord.site)!
 
 
-# Npm Package
+## Npm Package
 NPM: https://www.npmjs.com/package/botscord-api
 
 <a href="https://nodei.co/npm/botscord-api/"><img src="https://nodei.co/npm/botscord-api.png"></a>
