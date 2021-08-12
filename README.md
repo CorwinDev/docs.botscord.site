@@ -1,3 +1,5 @@
+<a href="bot.html">Bot On Site</a>
+
 # On this site you find info about our [site](https://botscord.site)!
 
 
@@ -69,4 +71,13 @@ Fill in the short description of the bot, aka if I have a moderation bot I fill 
 
 You can add for example
 <iframe src="https://botscord.site" title="BotsCord Site"></iframe>
+
+Code of this:
+```
+<iframe src="https://botscord.site" title="BotsCord Site"></iframe>
+```
+
+The your are good to go!
+
+Now the bot approvers will test your bot!
 
