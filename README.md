@@ -68,5 +68,5 @@ Fill in the short description of the bot, aka if I have a moderation bot I fill 
 
 
 You can add for example
-<iframe src="https://botscord.site">
-</iframe>
+<iframe src="https://botscord.site" title="BotsCord Site"></iframe>
+
